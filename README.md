@@ -51,7 +51,7 @@ Planned but not implemented advanced features include:
 ❌ Lambda expressions
 ❌ Design Patterns
 
-Additional Information
+**Additional Information**
 Notes for Running the Code
 To run the code effectively, follow the installation steps and prerequisites as outlined. 
 -Enter 3 on the console to access the Web page. 
